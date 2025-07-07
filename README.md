@@ -1,4 +1,4 @@
-## Other for project
+## Others for project
 
 FE for [USER](https://github.com/Kristie-vn/FEuser.git)
 
